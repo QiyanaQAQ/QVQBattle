@@ -1,2 +1,2 @@
 # QVQBattle
-Just a battle systme.
+Just a battle system.
